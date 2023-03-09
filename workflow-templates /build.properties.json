@@ -1,0 +1,8 @@
+{
+    "name": "Test-aopOrganization Workflow",
+    "description": "Test Organization CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Yaml"
+    ]
+}
