@@ -1,9 +1,10 @@
 {
-    "name": "Test-aopOrganization Workflow",
+    "name": "Test-aop Organization Workflow",
     "description": "Test Organization CI starter workflow.",
     "iconName": "example-icon",
     "categories": [
-        "testing"
+        "testing",
+        "Automation"
     ],
      "labels": ["preview"]
 }
