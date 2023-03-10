@@ -1,10 +1,6 @@
 {
-    "name": "Test AOP",
-    "description": "Test Organization CI starter workflow.",
-    "iconName": "example-icon",
-    "categories": [
-        "testing",
-        "Automation"
-    ],
-     "labels": ["preview"]
+    "name": "Package Actions and publish to Container registry",
+    "description": "Packages actions and publishes the artifacts to Github container registry",
+    "iconName": "rails",
+    "categories": ["Actions on packages"]
 }
