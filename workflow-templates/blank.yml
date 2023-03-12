@@ -25,5 +25,6 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: test-aop/hello_world@1.0.0-alpha.beta
       - uses: test-aop/hello_world_private@1.0.0
-  re_use:
-    uses: test-aop/test2/.github/workflows/reuse.yml@main      
+      - name: Aop Tests
+        uses: octademo/aop-tests@1.0.0
+        
